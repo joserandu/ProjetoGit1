@@ -3,3 +3,5 @@
 <!-- O git funciona com qualquer tipo de arquivo -->
 
 Olá, esse projeto é um teste de iniciação no git.
+
+Isso é uma alteração.
